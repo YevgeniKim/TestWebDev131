@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.main{ 
+    background-image: url("./Apple-iMac-Computer-Used-by-Kat-Dennings-as-Jules-in-Dollface-Season-1-Episode-1-1.jpg");
+background-size: cover;
+background-position: 10% 10%;
+height: 700px;
+position: relative
+
+
+;
+
+}
+
+
+header{
+    background-color: #fff;
+}
+.container{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.logo_content{
+    font-size: 40px;
+    font-weight:bold ;
+    text-decoration: none;
+    color:#ffc107
+    ;
+}
+
+nav{
+    margin-left: 600px;
+}
+
+.nav_link{
+text-decoration: none;
+color: gray;
+margin-left: 15px;
+
+}
+
+.main_content {
+    margin: 100px 0;
+text-align: center;
+}
+.main_content_work {
+    width: fit-content;
+    margin:auto;
+    color: #fff;
+    font-size: 70px;
+}
+
+.main_content_easy {
+    width: fit-content;
+    margin: 0 auto;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+}
